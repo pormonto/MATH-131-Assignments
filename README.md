@@ -4,6 +4,6 @@ Welcome! Each of the assignments will have their respective folders. Assignments
 
 ---
 
-**Assignment 1 & 2**:
+**Assignment 1 & 2 & 4**:
 - Contains singular PDF of the solution to all __written__ questions.
 - Contains MATLAB script (m file) with the solution to all the __programming__ questions.
